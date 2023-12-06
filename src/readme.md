@@ -1,0 +1,1 @@
+This task to understand sql.
